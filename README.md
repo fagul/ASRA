@@ -1,4 +1,4 @@
 # ASRA
-Fingerprint alignment
-Requirement: Matlab
-Run 
+Fingerprint alignment <br />
+Requirement: Matlab <br />
+run testgui1.p <br />
